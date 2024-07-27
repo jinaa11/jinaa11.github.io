@@ -1,0 +1,67 @@
+[
+  {
+    "travelInfo": {
+      "date": "07.30(화)",
+      "trainType": "KTX",
+      "trainNumber": "105",
+      "departureStation": "서울",
+      "arrivalStation": "부산",
+      "departureTime": "10:12",
+      "arrivalTime": "13:34",
+      "passengerCount": 4,
+      "paymentAmount": "179400",
+      "journey": "편도"
+    },
+    "passengerInfo": [
+        {
+          "trainNumber": "105",
+          "seatType": "일반실",
+          "seatInfo": "5호차 A03",
+          "passengerType": "어른",
+          "fare": "59800",
+          "totalFare": "59800",
+          "passengerName": "이한희",
+          "ticketNumber": "82410-0726-10287-24"
+        },
+        {
+          "trainNumber": "105",
+          "seatType": "일반실",
+          "seatInfo": "5호차 A04",
+          "passengerType": "어른",
+          "fare": "59800",
+          "totalFare": "59800",
+          "passengerName": "이한희",
+          "ticketNumber": "82410-0726-10287-25"
+        },
+        {
+          "trainNumber": "105",
+          "seatType": "일반실",
+          "seatInfo": "5호차 B03",
+          "passengerType": "어린이",
+          "fare": "29900",
+          "totalFare": "29900",
+          "passengerName": "이한희",
+          "ticketNumber": "82410-0726-10287-26"
+        },
+        {
+          "trainNumber": "105",
+          "seatType": "일반실",
+          "seatInfo": "5호차 B04",
+          "passengerType": "어린이",
+          "fare": "29900",
+          "totalFare": "29900",
+          "passengerName": "이한희",
+          "ticketNumber": "82410-0726-10287-27"
+        }
+    ],
+    "paymentInfo": {
+        "paymentMethod": "신용카드",
+        "cardNo": "5272-****-****-9900",
+        "approvalNumber": "16655607733",
+        "approvalDate": "2024.7.26.",
+        "amount": "179400",
+        "paymentStatus": "결제완료",
+        "issuanceStatus": "발권완료"    
+    }
+  }
+]
